@@ -7,9 +7,12 @@ namespace hotfix_test
         static void Main(string[] args)
         {
             Console.WriteLine("New code added");
-            Console.WriteLine("New code added 2");
-            Console.WriteLine("New code added 3");
-            Console.WriteLine("buggy code added 3");
+            Console.WriteLine("New code added");
+            Console.WriteLine("New code added");
+            Console.WriteLine("buggy code added");
+            Console.WriteLine("New code added");
+            Console.WriteLine("New code added");
+            Console.WriteLine("New code added");
             Console.WriteLine("Hello World! this is a change");
         }
     }
