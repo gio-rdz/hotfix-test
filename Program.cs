@@ -13,6 +13,7 @@ namespace hotfix_test
             Console.WriteLine("New code added");
             Console.WriteLine("New code added");
             Console.WriteLine("New code added");
+            Console.WriteLine("New code added");
             Console.WriteLine("Hello World! this is a change");
         }
     }
