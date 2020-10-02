@@ -9,7 +9,7 @@ namespace hotfix_test
             Console.WriteLine("New code added");
             Console.WriteLine("New code added");
             Console.WriteLine("New code added");
-            Console.WriteLine("buggy code added");
+            Console.WriteLine("buggy code fixed");
             Console.WriteLine("New code added");
             Console.WriteLine("New code added");
             Console.WriteLine("New code added");
