@@ -7,6 +7,7 @@ namespace hotfix_test
         static void Main(string[] args)
         {
             Console.WriteLine("working code");            
+            Console.WriteLine("working code");            
             Console.WriteLine("Hello World! this is a change");
         }
     }
